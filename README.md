@@ -110,44 +110,16 @@
     <rect x="282" y="210" width="6" height="4" rx="1"/><rect x="290" y="210" width="6" height="4" rx="1"/>
     <rect x="298" y="210" width="6" height="4" rx="1"/>
   </g>
-  <!-- Girl head -->
-  <ellipse cx="270" cy="137" rx="19" ry="21" fill="#c8a882"/>
-  <!-- Long hair back layer -->
-  <ellipse cx="270" cy="122" rx="23" ry="16" fill="#1a0a00"/>
-  <path d="M248 130 Q242 160 246 195" stroke="#1a0a00" stroke-width="10" fill="none" stroke-linecap="round"/>
-  <path d="M292 130 Q298 160 294 195" stroke="#1a0a00" stroke-width="10" fill="none" stroke-linecap="round"/>
-  <!-- Hair front top -->
-  <path d="M250 122 Q252 108 270 106 Q288 108 290 122" fill="#1a0a00"/>
-  <!-- Side bangs -->
-  <path d="M250 122 Q247 130 249 136" stroke="#1a0a00" stroke-width="4" fill="none" stroke-linecap="round"/>
-  <!-- Hair tie / bun detail -->
-  <circle cx="270" cy="106" r="5" fill="#ff4d6d" opacity="0.8"/>
-  <circle cx="270" cy="106" r="3" fill="#cc2244" opacity="0.9"/>
-  <!-- Ear -->
-  <ellipse cx="251" cy="138" rx="3" ry="4" fill="#b8987a"/>
-  <ellipse cx="289" cy="138" rx="3" ry="4" fill="#b8987a"/>
-  <!-- Glasses -->
-  <rect x="256" y="135" width="10" height="7" rx="3" fill="none" stroke="#00d4ff" stroke-width="1.5" opacity="0.9" filter="url(#glow-blue)"/>
-  <rect x="272" y="135" width="10" height="7" rx="3" fill="none" stroke="#00d4ff" stroke-width="1.5" opacity="0.9" filter="url(#glow-blue)"/>
-  <line x1="266" y1="138" x2="272" y2="138" stroke="#00d4ff" stroke-width="1" opacity="0.7"/>
-  <line x1="256" y1="138" x2="251" y2="137" stroke="#00d4ff" stroke-width="1" opacity="0.5"/>
-  <line x1="282" y1="138" x2="289" y2="137" stroke="#00d4ff" stroke-width="1" opacity="0.5"/>
-  <!-- Eyes -->
-  <circle cx="261" cy="138" r="2.5" fill="#1a0a00"/>
-  <circle cx="277" cy="138" r="2.5" fill="#1a0a00"/>
-  <circle cx="262" cy="137" r="0.8" fill="#ffffff" opacity="0.7"/>
-  <circle cx="278" cy="137" r="0.8" fill="#ffffff" opacity="0.7"/>
-  <!-- Eyelashes (feminine detail) -->
-  <line x1="258" y1="134" x2="257" y2="132" stroke="#1a0a00" stroke-width="0.8"/>
-  <line x1="261" y1="133" x2="261" y2="131" stroke="#1a0a00" stroke-width="0.8"/>
-  <line x1="264" y1="134" x2="265" y2="132" stroke="#1a0a00" stroke-width="0.8"/>
-  <line x1="274" y1="134" x2="273" y2="132" stroke="#1a0a00" stroke-width="0.8"/>
-  <line x1="277" y1="133" x2="277" y2="131" stroke="#1a0a00" stroke-width="0.8"/>
-  <line x1="280" y1="134" x2="281" y2="132" stroke="#1a0a00" stroke-width="0.8"/>
-  <!-- Small smile -->
-  <path d="M265 147 Q270 151 275 147" stroke="#a07050" stroke-width="1.2" fill="none" stroke-linecap="round"/>
-  <!-- Cursor blink -->
-  <rect x="279" y="135" width="2" height="7" fill="#00d4ff" opacity="0.8" style="animation:blink 1.2s step-end infinite"/>
+  <ellipse cx="270" cy="135" rx="20" ry="22" fill="#2a4060"/>
+  <ellipse cx="270" cy="118" rx="21" ry="14" fill="#0d1826"/>
+  <path d="M250 128 Q248 115 256 110" stroke="#0d1826" stroke-width="5" fill="none" stroke-linecap="round"/>
+  <path d="M290 128 Q292 115 284 110" stroke="#0d1826" stroke-width="5" fill="none" stroke-linecap="round"/>
+  <rect x="256" y="133" width="10" height="7" rx="3" fill="none" stroke="#00d4ff" stroke-width="1.5" opacity="0.9" filter="url(#glow-blue)"/>
+  <rect x="272" y="133" width="10" height="7" rx="3" fill="none" stroke="#00d4ff" stroke-width="1.5" opacity="0.9" filter="url(#glow-blue)"/>
+  <line x1="266" y1="136" x2="272" y2="136" stroke="#00d4ff" stroke-width="1" opacity="0.7"/>
+  <circle cx="261" cy="136" r="2" fill="#0d1826"/>
+  <circle cx="277" cy="136" r="2" fill="#0d1826"/>
+  <rect x="279" y="133" width="2" height="7" fill="#00d4ff" opacity="0.8" style="animation:blink 1.2s step-end infinite"/>
   <g style="animation:float-shield 3s ease-in-out infinite; transform-origin:640px 130px">
     <path d="M640 112 L655 118 L655 135 Q655 145 640 150 Q625 145 625 135 L625 118 Z" fill="#0d2040" stroke="#00d4ff" stroke-width="1.5" filter="url(#glow-blue)" opacity="0.85"/>
     <text x="640" y="135" text-anchor="middle" font-size="12" fill="#00d4ff" opacity="0.9">ok</text>
@@ -297,45 +269,20 @@ Detects unauthorized file modifications
 
 ---
 
-## `> cat tech_stack.conf`
+## `> cat skills.conf`
 
-**Languages**
+```yaml
+cybersecurity:
+  - ISO 27001 / 42001  |  GRC  |  Risk Assessment
+  - Network Security   |  Vulnerability Analysis
+  - Cisco Packet Tracer | Archer
 
-![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=00d4ff)
-![Java](https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=ff4d6d)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=ffe066)
-![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=ff4d6d)
-![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=00d4ff)
+languages:
+  - Python  |  Java  |  JavaScript
 
-**Frameworks & Libraries**
-
-![Flask](https://img.shields.io/badge/Flask-0d1117?style=for-the-badge&logo=flask&logoColor=00d4ff)
-![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=00d4ff)
-![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=node.js&logoColor=00ff9d)
-![Socket.io](https://img.shields.io/badge/Socket.io-0d1117?style=for-the-badge&logo=socket.io&logoColor=ffffff)
-
-**Cybersecurity & Networking**
-
-![Wireshark](https://img.shields.io/badge/Wireshark-0d1117?style=for-the-badge&logo=wireshark&logoColor=00d4ff)
-![Cisco](https://img.shields.io/badge/Cisco_Packet_Tracer-0d1117?style=for-the-badge&logo=cisco&logoColor=00d4ff)
-![Fortinet](https://img.shields.io/badge/FortiGate-0d1117?style=for-the-badge&logo=fortinet&logoColor=ff4d6d)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-0d1117?style=for-the-badge&logo=kalilinux&logoColor=00d4ff)
-![Nmap](https://img.shields.io/badge/Nmap-0d1117?style=for-the-badge&logo=nmap&logoColor=00ff9d)
-
-**Governance, Risk & Compliance**
-
-![ISO 27001](https://img.shields.io/badge/ISO_27001-0d1117?style=for-the-badge&logo=shield&logoColor=ffe066)
-![ISO 42001](https://img.shields.io/badge/ISO_42001-0d1117?style=for-the-badge&logo=shield&logoColor=ffe066)
-![GRC](https://img.shields.io/badge/GRC-0d1117?style=for-the-badge&logo=checkmk&logoColor=00ff9d)
-![Archer](https://img.shields.io/badge/Archer_GRC-0d1117?style=for-the-badge&logo=target&logoColor=ff4d6d)
-
-**Tools & Platforms**
-
-![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=ffffff)
-![VS Code](https://img.shields.io/badge/VS_Code-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=00d4ff)
-![Figma](https://img.shields.io/badge/Figma-0d1117?style=for-the-badge&logo=figma&logoColor=ff4d6d)
-![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=ffe066)
-![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=ff4d6d)
+frameworks:
+  - Flask  |  React.js  |  Node.js
+```
 
 ---
 
