@@ -1,5 +1,5 @@
 <!-- Wave header via capsule-render (GitHub safe, fully rendered) -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:000000,100:000000&height=200&section=header&text=JAYASRI%20DURAIPANDI&fontSize=42&fontColor=00d4ff&fontAlignY=38&desc=%3E%20Cybersecurity%20%7C%20ISO%20Lead%20Auditor%20%7C%20Networking&descAlignY=60&descColor=7ec8e3&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:000000,100:000000&height=200&section=header&text=JAYASRI%20DURAIPANDI&fontSize=42&fontColor=#000000&fontAlignY=38&desc=%3E%20Cybersecurity%20%7C%20ISO%20Lead%20Auditor%20%7C%20Networking&descAlignY=60&descColor=7ec8e3&animation=fadeIn"/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jayasri-duraipandi/)
 [![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00d4ff)](https://github.com/jayasriduraipandi)
