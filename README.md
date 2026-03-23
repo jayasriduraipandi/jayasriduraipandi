@@ -1,12 +1,6 @@
 <!-- Wave header via capsule-render (GitHub safe, fully rendered) -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020810,40:0a1628,100:0d2040&height=200&section=header&text=JAYASRI%20DURAIPANDI&fontSize=42&fontColor=00d4ff&fontAlignY=38&desc=%3E%20Cybersecurity%20%7C%20ISO%20Lead%20Auditor%20%7C%20Ethical%20Hacker%20in%20Progress&descAlignY=60&descColor=7ec8e3&animation=fadeIn"/>
 
-<br/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=00D4FF&background=00000000&center=true&vCenter=true&width=700&lines=%24+whoami+--+Jayasri+Duraipandi;ISO+27001+%26+42001+Lead+Auditor+%F0%9F%94%90;Cybersecurity+Intern+%7C+Dubai+%26+Abu+Dhabi;Building+secure+systems%2C+one+port+at+a+time;CCNA+%7C+CCNP+%7C+CISO+%E2%80%94+In+Progress...)](https://git.io/typing-svg)
-
-<br/>
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jayasri-duraipandi/)
 [![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00d4ff)](https://github.com/jayasriduraipandi)
 [![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=ff4d6d)](mailto:jayasriduraipandi1415@gmail.com)
