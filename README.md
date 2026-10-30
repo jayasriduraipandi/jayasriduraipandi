@@ -7,8 +7,6 @@
 
 </div>
 
----
-
 ```bash
 $ cat about_me.txt
 ```
